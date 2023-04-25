@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Es una automatización de un carrito de compras para Banco Pichincha</description>
+   <name>E2E Carrito de compras</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f02d1288-89bf-4dfa-a5ae-25136d259776</testCaseGuid>
+</TestCaseEntity>

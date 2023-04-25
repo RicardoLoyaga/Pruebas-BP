@@ -1,0 +1,6 @@
+/*----Conclusiones----*/
+
+Este ejercicio permite realizar pruebas funcionales de un API Rest, basándonos en la documentación proporcionada
+por swagger, en el cual vemos el Endpoint, parámetros y estructura JSON utilizadas para cada método de consulta
+garantizando el funcionamiento adecuado del API y mediante esto validando que el servicio una vez implementado no tendrá
+novedades.

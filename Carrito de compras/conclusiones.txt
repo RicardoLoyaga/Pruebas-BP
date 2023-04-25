@@ -1,0 +1,5 @@
+/*----Conclusiones----*/
+
+Este ejercicio en honor al tiempo, permite realizar pruebas funcionales de un sitio web, 
+aplicando los fundamentos del testing y garantizando las pruebas E2E cumpliendo con un flujo específico
+de pruebas.
